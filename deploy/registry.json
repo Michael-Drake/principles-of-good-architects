@@ -1,0 +1,11 @@
+{
+  "contract_version": 1,
+  "systems": {
+    "federation": {
+      "remote": "https://github.com/Michael-Drake/principles-of-good-architects.git",
+      "subdir": null,
+      "self": true,
+      "cutover": "auto"
+    }
+  }
+}
